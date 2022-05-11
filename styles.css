@@ -1,0 +1,11 @@
+i.fas {font-size: 160%;}
+
+.card-text {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Btns span, .Btns-fav span {
+    margin: 0 30px;
+}
